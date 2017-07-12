@@ -1,0 +1,26 @@
+{
+  "name": "boilerplate",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.16.2",
+    "google-map-react": "^0.24.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-google-maps": "^6.3.0",
+    "react-google-maps-loader": "^2.0.3",
+    "react-redux": "^5.0.2",
+    "react-sparklines": "^1.6.0",
+    "redux": "^3.6.0",
+    "redux-promise": "^0.5.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
